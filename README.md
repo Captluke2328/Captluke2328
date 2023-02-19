@@ -29,7 +29,7 @@ passion in Artificial Intelligence, Machine Learning, Programming and Embedded S
 -->
 
 ### ☕ Get In Touch
-:rocket: [Sieuwe.eu](https://sieuwe.eu/)
+:rocket: [lukasjohnny.eu](https://sieuwe.eu/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sieuwe1.visitor-badge)
 
