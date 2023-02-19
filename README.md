@@ -7,7 +7,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Captluke2328&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
 ### :video_camera: Last Video
-[![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw)
+<!-- [![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw) -->
 
 ### 👨‍💻 About Me 
 - 👋 Hi, I’m Luke
